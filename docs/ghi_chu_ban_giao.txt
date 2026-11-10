@@ -1,0 +1,3 @@
+Ban giao du an: Khách sạn Mây.
+Demo web dang co loi tai hinh dai dien va danh muc Đặt phòng nghỉ dưỡng.
+Khong dua file .env len GitHub.
